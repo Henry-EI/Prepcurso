@@ -1,2 +1,2 @@
 # Prepcurso
-Este es un repositorio de prueba 
+Henry escobar , este proyecto es una prueba de como crear una prueba
